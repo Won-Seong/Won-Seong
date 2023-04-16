@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SeongWon.
 - 👀 I’m interested in computational statistics.
 - 🌱 I’m currently learning C++, statistical learning method, ETC.
-- 📫 Contact: kssw888@gmail.com
+- 📫 Contact: ksw888@kaist.ac.kr
 - 💡 If you want to know more about me, please visit my kaggle page(https://www.kaggle.com/seongwonr).
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw888)](https://solved.ac/ksw888/)
