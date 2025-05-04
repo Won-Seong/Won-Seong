@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sungwon Kim.
 - 👀 I’m interested in {generative models, diffusion models, statistics, deep learning}.
 - 🌱 I’m currently learning {Python, Pytorch, deep learning, diffusion models}.
-- 📫 Contact: ksw888@kaist.ac.kr / kssw888@naver.com
+- 📫 Contact: kssw888@naver.com
 - 💡 If you want to know more about me, please visit my LinkedIn and Portfolio page(they're in my profile!).
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw888)](https://solved.ac/ksw888/)
